@@ -54,3 +54,4 @@ figure (2)
 imshow(uint8(decoded_img));
 
 
+ 
